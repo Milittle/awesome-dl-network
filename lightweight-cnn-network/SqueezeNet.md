@@ -25,10 +25,8 @@ CNN Architectural Design Strategies:
 ![Fire Module](../image/squeezeNet_fire_module.jpg)
 
 在以上的Fire Module中，有一个squeeze层核expand层。squeeze层只有1X1卷积核。（使用到了strategy1）expand层有1X1卷积核和3X3卷积核。文章中指出该Fire Module有三个超参配置分别为：
-![](http://latex.codecogs.com/gif.latex?s_{1x1}:所有squeeze层的卷积核个数\\
-e_{1x1}:所有expand层1X1的卷积核个数\\
-e_{3x3}:所有expand层3X3的卷积核个数)
-设定![](http://latex.codecogs.com/gif.latex?s_{1x1}) 小于 ![](http://latex.codecogs.com/gif.latex?e_{1x1} + e_{3x3}),这样就是strategy2。
+![](http://latex.codecogs.com/gif.latex?s_{1x1}:所有squeeze层的卷积核个数\\e_{1x1}:所有expand层1X1的卷积核个数\\e_{3x3}:所有expand层3X3的卷积核个数)
+设定![](http://latex.codecogs.com/gif.latex?s_{1x1})小于![](http://latex.codecogs.com/gif.latex?e_{1x1} + e_{3x3}),这样就是strategy2。
 
 ### SqueezeNet Architecture
 
