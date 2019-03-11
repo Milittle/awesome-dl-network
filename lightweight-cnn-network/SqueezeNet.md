@@ -12,7 +12,7 @@ CNN Architectural Design Strategies:
 
 替换3 X 3卷积核大小到1 X 1大小。
 
-**Strategy 2: ** Decrease the number of input channels to 3 X 3 filters.
+**Strategy 2:** Decrease the number of input channels to 3 X 3 filters.
 
 在使用3 X 3大小的卷积核中，减小输入通道。
 
