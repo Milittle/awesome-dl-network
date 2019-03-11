@@ -4,7 +4,7 @@ Paper Site: [ICIR 2017](https://arxiv.org/abs/1602.07360)
 
 Source Code Github: [Github](https://github.com/DeepScale/SqueezeNet)
 
-DownLoad From This Repo: 
+DownLoad From This Repo: [Paper PDF](https://github.com/Milittle/awesome-dl-network/blob/master/paper/1602.07360_SQUEEZENET%20ALEXNET-LEVEL%20ACCURACY%20WITH%2050X%20FEWER%20PARAMETERS%20AND%200.5MB%20MODEL%20SIZE.pdf)
 
 CNN Architectural Design Strategies:
 
