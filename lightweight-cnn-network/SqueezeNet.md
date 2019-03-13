@@ -12,7 +12,7 @@ DownLoad From This Repo: [Paper PDF](https://github.com/Milittle/awesome-dl-netw
 
 替换3 X 3卷积核大小到1 X 1大小。
 
-**Strategy 2: ** Decrease the number of input channels to 3 X 3 filters.
+**Strategy 2:** Decrease the number of input channels to 3 X 3 filters.
 
 在使用3 X 3大小的卷积核中，减小输入通道。
 
@@ -25,19 +25,21 @@ DownLoad From This Repo: [Paper PDF](https://github.com/Milittle/awesome-dl-netw
 ![Fire Module](../image/squeezeNet_fire_module.jpg)
 
 在以上的Fire Module中，有一个squeeze层核expand层。squeeze层只有1X1卷积核。（使用到了strategy1）expand层有1X1卷积核和3X3卷积核。文章中指出该Fire Module有三个超参配置分别为：
-$$
-s_{1x1}:所有squeeze层的卷积核个数\\
-e_{1x1}:所有expand层1X1的卷积核个数\\
-e_{3x3}:所有expand层3X3的卷积核个数
-$$
-设定$s_{1x1} 小于 e_{1x1} + e_{3x3}​$,这样就是strategy2。
+
+![](http://latex.codecogs.com/gif.latex?s_{1x1}): 所有squeeze层的卷积核个数
+
+![](http://latex.codecogs.com/gif.latex?e_{1x1}): 所有expand层1X1的卷积核个数
+
+![](http://latex.codecogs.com/gif.latex?e_{3x3}): 所有expand层3X3的卷积核个数
+
+设定 ![](http://latex.codecogs.com/gif.latex?s_{1x1}) 小于 ![](http://latex.codecogs.com/gif.latex?e_{1x1}+e_{3x3}), 这就是strategy2。
 
 ### SqueezeNet Architecture
 
 ![Architecture](../image/squeezeNet_Architecture.jpg)
 
 1. 以上是SqueezeNet网络结构，第1层普通卷积层，2-9都是上述提到的Fire Module，第10层也是一个普通的卷积层。
-2. 在卷积层1、模块4、模块8、加入maxpool，步长为2。
+2. 在卷积层1、模块4、模块8、加入MaxPool，步长为2。
 3. 在卷积层10加入global AvgPool。
 
 ### 网络整个架构维度表
