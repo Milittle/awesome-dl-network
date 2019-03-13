@@ -4,6 +4,7 @@
 ### [light-weight-cnn-network](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/README.md)
 
 1. [SqueezeNet](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/SqueezeNet.md)
+2. [MobileNet](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/MobileNet.md)
 
 QQ：329804334
 

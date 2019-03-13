@@ -10,4 +10,4 @@
 ### 网络结构
 
 1. [SqueezeNet](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/SqueezeNet.md)
-
+2. [MobileNetv1](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/MobileNet.md)
