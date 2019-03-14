@@ -54,9 +54,15 @@ DownLoad From This Repo: [Paper PDF](https://github.com/Milittle/awesome-dl-netw
 4. squeezeNet没有全连接层。
 5. 初始学习率设置为0.04。在训练的过程中逐渐减小学习率。
 
-QQ: 329804334
+Author: Milittle
+
+Blog Website: www.weaf.top
+
+QQ：329804334
 
 Mail：milittle@stu.xjtu.edu.cn
+
+贡献：添加qq好友，联系我。
 
 备注： 文档中图都来自原论文。
 

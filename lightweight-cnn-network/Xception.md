@@ -36,10 +36,14 @@ Source Code Based PyTorch: https://github.com/jfzhang95/pytorch-deeplab-xception
 3. 输出流：最后边，19 X 19 X 728的输入特征，输出特征为2048维的特征向量，最后可以接一个类别层。
 4. 所有卷积层和深度可分离卷积都是跟着BN的，在这个结构中没有显示出来。
 
-Author：Milittle
+Author: Milittle
 
-QQ: 329804334
+Blog Website: www.weaf.top
 
-Mail: mizeshuang@gmail.com
+QQ：329804334
+
+Mail：milittle@stu.xjtu.edu.cn
+
+贡献：添加qq好友，联系我。
 
 备注：文档中所有图都出自原论文

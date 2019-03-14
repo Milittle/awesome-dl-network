@@ -57,10 +57,14 @@ Dk代表输入图像的大小，M是输入图像的通道数，N是输出特征�
 
 ![](../image/mobileNet/arch.jpg)
 
-QQ:329804334
+Author: Milittle
 
-website: www.weaf.top
+Blog Website: www.weaf.top
 
-Mail:mizeshuang@gmail.com
+QQ：329804334
+
+Mail：milittle@stu.xjtu.edu.cn
+
+贡献：添加qq好友，联系我。
 
 备注：文档中所有图表均来自文章。
