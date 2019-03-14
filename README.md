@@ -1,7 +1,7 @@
-## awesome-dl-network
-介绍一些经典的网络结构以及论文中提到的一些细节总结，比如有经典网络结构AlexNet、VGG。轻量级网络结构SqueezeNet、MobileNet等。目标检测网络结构有Fast R-CNN、YOLO等等。
+# Awesome-DL-Network
+## 介绍一些经典的网络结构以及论文中提到的一些细节总结，比如有经典网络结构AlexNet、VGG。轻量级网络结构SqueezeNet、MobileNet等。目标检测网络结构有Fast R-CNN、YOLO等。
 
-### [lightweight-cnn-network](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/README.md)
+## [lightweight-cnn-network](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/README.md)
 
 1. [SqueezeNet](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/SqueezeNet.md)
 2. [MobileNet](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/MobileNet.md)
