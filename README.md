@@ -8,6 +8,10 @@
 3. [ShuffleNetv1](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/ShuffleNet.md)
 4. [Xception](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/Xception.md)
 
+Author: Milittle
+
+Blog Website: www.weaf.top
+
 QQ：329804334
 
 Mail：milittle@stu.xjtu.edu.cn
