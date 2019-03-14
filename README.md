@@ -6,6 +6,7 @@
 1. [SqueezeNet](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/SqueezeNet.md)
 2. [MobileNet](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/MobileNet.md)
 3. [ShuffleNetv1](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/ShuffleNet.md)
+4. [Xception](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/Xception.md)
 
 QQ：329804334
 
