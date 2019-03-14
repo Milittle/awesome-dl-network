@@ -26,10 +26,14 @@ Source code in Github: [Github](https://github.com/MG2033/ShuffleNet)
 
 ![](../image/shuffleNet/arch_table.jpg)
 
-QQ:329804334
+Author: Milittle
 
-Website: www.weaf.top
+Blog Website: www.weaf.top
 
-Mail:mizeshuang@gmail.com
+QQ：329804334
+
+Mail：milittle@stu.xjtu.edu.cn
+
+贡献：添加qq好友，联系我。
 
 备注：文档中所有图均来自论文
