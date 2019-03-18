@@ -3,6 +3,10 @@
 
 ### 持续更新中......
 
+### [classic-dl-network](https://github.com/Milittle/awesome-dl-network/blob/master/classic-dl-network/README.md)
+
+1. [GoogLeNet]()
+
 ### [lightweight-cnn-network](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/README.md)
 
 1. [SqueezeNet](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/SqueezeNet.md)
