@@ -5,7 +5,10 @@
 
 ### [classic-dl-network](https://github.com/Milittle/awesome-dl-network/blob/master/classic-dl-network/README.md)
 
-1. [GoogLeNet](https://github.com/Milittle/awesome-dl-network/blob/master/classic-dl-network/GoogleNet.md)
+1. [AlexNet](https://github.com/Milittle/awesome-dl-network/blob/master/classic-dl-network/AlexNet.md)
+2. [GoogLeNet](https://github.com/Milittle/awesome-dl-network/blob/master/classic-dl-network/GoogleNet.md)
+3. [VGG](https://github.com/Milittle/awesome-dl-network/blob/master/classic-dl-network/VGG.md)
+4. [SENet](https://github.com/Milittle/awesome-dl-network/blob/master/classic-dl-network/SENet.md)
 
 ### [lightweight-cnn-network](https://github.com/Milittle/awesome-dl-network/blob/master/lightweight-cnn-network/README.md)
 
