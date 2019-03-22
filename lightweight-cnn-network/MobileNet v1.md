@@ -1,12 +1,10 @@
-## MobileNet
+## MobileNet V1
 
 Paper Site：[Site](https://arxiv.org/abs/1704.04861)
 
 Source Code Github and Pre-train model:  [Github](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.md)
 
-Download paper from this repo: []()
-
-## MobileNet Architecture
+## MobileNet V1 Architecture
 
 ![](../image/mobileNet/architecture.jpg)
 
@@ -31,7 +29,7 @@ Dk代表输入图像的大小，M是输入图像的通道数，N是输出特征�
 
 ![](../image/mobileNet/depth_wise_conv.jpg)
 
-### Save Multi
+### Save Multi 节省的算子量
 
 ![](../image/mobileNet/save_cost.jpg)
 
