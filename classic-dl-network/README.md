@@ -3,7 +3,8 @@
 这些网络的结构设计为后续dl的发展奠定了基础。
 读者可以在自己的网络中加入一些这些网络的结构。有可能会有性能的提升。
 ## 网络结构
-1. [GoogLeNet](https://github.com/Milittle/awesome-dl-network/blob/master/classic-dl-network/GoogleNet.md)
+1. [AlexNet](https://github.com/Milittle/awesome-dl-network/blob/master/classic-dl-network/AlexNet.md)
+2. [GoogLeNet](https://github.com/Milittle/awesome-dl-network/blob/master/classic-dl-network/GoogleNet.md)
 
 Author: Milittle
 
